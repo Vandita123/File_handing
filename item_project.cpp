@@ -17,7 +17,6 @@ class ITEM
 		
 		void Show() //Show() displays code and data
 		{
-	//	cout<<endl<<"Code         Name of Item:";
 		cout<<endl<<code<<"\t\t"<<nm;
 		}
 		
